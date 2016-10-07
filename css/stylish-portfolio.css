@@ -160,6 +160,7 @@ hr.small {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    color: #f0f5f5;
 }
 
 /* About */
@@ -249,6 +250,10 @@ footer {
   right: 5px;
 }
 
+.bg-primary {
+  color: #fff;
+  background-color: #00547a;
+}
 
 .tech-group {
     display: -webkit-box;
